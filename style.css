@@ -1,11 +1,12 @@
 
 .container {
+    right: 1500px;
 	margin: 20px 0;
 	width: 400px;
 	height: 600px;
-	padding: 10px 25px;
+	padding: 10px 100px;
 	background:white;
-	border-radius: 10px;
+	border-radius: 100px;
 	box-shadow: 0 0 5px rgba(0, 0.45, 0.45, 0.45), 0 4px 8px rgba(0, 0, 0, 0.35), 0 8px 12px rgba(0, 0, 0, 0.15);
 	font-family: "Montserrat";
 	
@@ -54,7 +55,7 @@
 
 
 .support{
-	position: fixed;
+	position: relative;;
 	right: 10px;
 	bottom: 10px;
 	padding: 10px;
